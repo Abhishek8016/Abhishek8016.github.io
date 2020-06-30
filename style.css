@@ -1,0 +1,50 @@
+#main{
+    font-size: 30px;
+    text-align: center;
+    color: rgb(204, 15, 15);
+    font-style: italic;
+
+
+}
+#tvshow {
+    text-align: center;
+    color: rgb(214, 126, 12);
+}
+#information {
+    color: #14e70d;
+    text-align: center;
+}
+#power {
+    background-color: #000800f1;
+}
+#fearless {
+    border-radius: 10%;
+    height: 400px;
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+.aboutbutton {
+    background-color: rgb(208, 255, 0);
+    color: blueviolet;
+    padding: 10px;
+    font-size: 18px;
+    border-radius: 25px;
+}
+#about {
+    background-image: url('cod.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#COD {
+    color: red;
+    text-align: center;
+}
+#free_game {
+    text-decoration: none;
+    color: rgb(0, 255, 42);
+    text-align: center;
+}
+    
+    
