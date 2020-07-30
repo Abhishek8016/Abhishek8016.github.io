@@ -1,0 +1,96 @@
+#main{
+    font-size: 30px;
+    text-align: center;
+    color: rgb(204, 15, 15);
+    font-style: italic;
+
+
+}
+#tvshow {
+    text-align: center;
+    color: rgb(214, 126, 12);
+}
+#information {
+    color:green;
+    text-align: center;
+}
+#power {
+    background-color: #000800f1;
+}
+#fearless {
+    border-radius: 10%;
+    height: 400px;
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+.aboutbutton {
+    background-color: rgb(208, 255, 0);
+    color: blueviolet;
+    padding: 10px;
+    font-size: 18px;
+    border-radius: 25px;
+}
+#about {
+    background-image: url('cod.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#COD {
+    color: red;
+    text-align: center;
+}
+#free_game {
+    text-decoration: none;
+    color: rgb(0, 255, 42);
+    text-align: center;
+}
+.question {
+    color: rgb(0, 255, 0);
+}
+#codquiz {
+    text-align: center;
+    color: red;
+}
+#quiz {
+    text-align: center;
+    color: green;
+}
+#gameplay {
+    background-image: url('season 8.jpg');
+    background-size: cover;
+}
+#play {
+    color: orangered;
+    font-size: 30px
+}
+#ques {
+    color: yellow;
+}
+#q {
+    color: yellow;
+}
+#question {
+    color: yellow;
+}
+#questions {
+    color: yellow;
+}
+#done {
+    color: rgb(255, 72, 0);
+}
+#number {
+    text-align: center;
+    color: blue;
+    background-image: radial-gradient(darkgreen,lightgreen,yellow,orange);
+}
+#calculator {
+    margin-left:auto;
+    margin-right:auto;
+    display:block;
+    font-size:18px;
+    color: blue;
+}
+    
+    
